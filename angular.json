@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngDoctorAppointmentBooking"
+    }
+  },
+  "defaultProject": "ngDoctorAppointmentBooking",
+  "cli": {
+    "analytics": "6efbd0f2-ecaa-43cb-88b9-468d89d8a5b7"
+  }
 }
